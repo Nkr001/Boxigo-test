@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Preview
+https://nifty-wing-4f300e.netlify.app/
 
 In the project directory, you can run:
 
